@@ -1,91 +1,65 @@
-🚀 Full Stack Web Developer | WordPress Theme Customization Expert | MERN Stack Enthusiast | PHP | Node.js | React.js | MongoDB | MySQL | JavaScript Ninja
+ <div align="center">
+  <img src="./assets/humaun_kabir_github_header.svg" width="100%" alt="Humaun Kabir - Full-Stack Software Engineer" />
 
-🌐 Crafting seamless web experiences and scalable applications. Specialized in customizing WordPress themes to perfection.
+  <br/>
 
-🛠️ Skills:
-- Frontend: React.js, Blade, JavaScript, HTML, CSS
-- Backend: Node.js, Express, PHP, Laravel
-- Databases: MongoDB, MySQL
-- WordPress: Theme Customization, Theme And Plugin Development
-- Full Stack: MERN (MongoDB, Express, React, Node.js)
-- RESTful APIs, GraphQL
-- Version Control: Git, GitHub
+  <a href="https://humaun.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/humaunkabir420/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/humaunkabir420">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:humaunkabi85@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-💡 Passionate about clean, efficient, and maintainable code. Always exploring new technologies and frameworks.
+<br/>
 
-📫 Open to collaborations and exciting projects. Let's connect for web development discussions!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1500&color=60A5FA&center=true&vCenter=true&width=650&lines=Full-Stack+Application+Development;Backend+%26+Frontend+Engineering;Exploring+Data+%26+Machine+Learning" alt="Typing SVG" />
+</div>
 
-<!--🔗 Portfolio: [YourPortfolioWebsite.com]-->
-📧 Email: humaunkabi85@gmail.com
+## About
 
+I'm a software engineer from Bangladesh with 4+ years of professional experience building web applications, SaaS platforms, and business systems.
 
+I work across the full stack, using Laravel and the Node.js ecosystem alongside React and Next.js. My interests include application architecture, database design, complex business workflows, and integrating software with external services and hardware.
 
-<!--<h1 align="center">Hi 👋, I'm Humaun Kabir</h1>
-<h3 align="center">A passionate full stsck web developer from Bangladesh</h3>
+Currently expanding my knowledge in Data Analysis, Machine Learning, and AI.
 
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humaun420&label=Profile%20views&color=0e75b6&style=flat" alt="humaun420" /> </p>
+## Technologies & Tools
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humaun420" alt="humaun420" /></a> </p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,ts,laravel,nodejs,express,nestjs,react,nextjs,html,css,tailwind,bootstrap,wordpress,mysql,postgres,mongodb,prisma,git,github,docker,linux,nginx,postman,phpstorm,vscode&perline=13" alt="Technologies and development tools" />
+</div>
 
+## GitHub Activity
 
-- 🔭 I’m currently learning nodejs for bcackend and js for everything
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=humaunkabir420&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117"
+    width="49%"
+    alt="GitHub contribution activity"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=humaunkabir420&theme=tokyonight&hide_border=true&background=0D1117"
+    width="49%"
+    alt="GitHub contribution streak"
+  />
+</div>
 
-- 🌱 I’m currently learning **too many things**
-<!--
-- 👯 I’m looking to collaborate on [nothing](nothing)
+## Currently Exploring
 
-- 🤝 I’m looking for help with [nothing](nothing)
+`Data Analysis` · `Machine Learning` · `Artificial Intelligence` · `System Design`
 
-- 👨‍💻 All of my projects are available at [no where](no where)
+<br/>
 
-- 📝 I regularly write articles on [no where](no where)
-
-- 💬 Ask me about **react , JavaScript , nodejs , expressjs etc**
-
-- 📫 How to reach me **humaumkabi85@gmail.com**
-<!--
-- 📄 Know about my experiences [nothing](nothing)
-
-- ⚡ Fun fact **i think i am funny**
-
-
-
-
-
-<h3 align="center">Find me on:</h3>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100035017417427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="humaun kabir" height="30" width="40" /></a>
-<a href="https://instagram.com/humaunkabi85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="humaun kabir" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humaun420&show_icons=true&locale=en&layout=compact" alt="humaun420" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humaun420&show_icons=true&locale=en" alt="humaun420" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humaun420&" alt="humaun420" /></p>
-
-
-
-<!--
-# HUMAUN KABIR
-
-### Hi there 👋
--->
-<!--
-**humaun420/humaun420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <sub>Thanks for stopping by!</sub>
+  <br/>
+  <sub>© Humaun Kabir</sub>
+</div>
