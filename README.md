@@ -55,11 +55,3 @@ Currently expanding my knowledge in Data Analysis, Machine Learning, and AI.
 ## Currently Exploring
 
 `Data Analysis` · `Machine Learning` · `Artificial Intelligence` · `System Design`
-
-<br/>
-
-<div align="center">
-  <sub>Thanks for stopping by!</sub>
-  <br/>
-  <sub>© Humaun Kabir</sub>
-</div>
